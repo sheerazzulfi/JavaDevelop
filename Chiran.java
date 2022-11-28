@@ -6,7 +6,7 @@ class Chiran
 		for (int i=0;i<b.length() ;i++ ) 
 		{
 			res=a.contains(b.charAt(i));
-			
+			System.out.prinln("abcd");
 		}
 		return res;
 	}
